@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "其他登录方式"; ObjectID = "Ce6-3N-Q3n"; */
+"Ce6-3N-Q3n.text" = "其他登录方式";
+
+/* Class = "UIButton"; normalTitle = "遇到问题"; ObjectID = "Cir-86-7r0"; */
+"Cir-86-7r0.normalTitle" = "遇到问题";
+
+/* Class = "UITextField"; placeholder = "please enter your phone"; ObjectID = "RNE-JI-Kc9"; */
+"RNE-JI-Kc9.placeholder" = "请输入手机号码";
+
+/* Class = "UIButton"; normalTitle = " 手机号码"; ObjectID = "iaM-5A-elZ"; */
+"iaM-5A-elZ.normalTitle" = " 手机号码";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "rZT-PS-crX"; */
+"rZT-PS-crX.text" = "+86";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "rwH-CK-djb"; */
+"rwH-CK-djb.normalTitle" = "下一步";

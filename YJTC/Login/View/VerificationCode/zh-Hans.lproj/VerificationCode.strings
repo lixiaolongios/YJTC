@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "请输入验证码"; ObjectID = "0GQ-RK-MgG"; */
+"0GQ-RK-MgG.normalTitle" = "请输入验证码";
+
+/* Class = "UIButton"; normalTitle = "遇到问题"; ObjectID = "Cir-86-7r0"; */
+"Cir-86-7r0.normalTitle" = "遇到问题";
+
+/* Class = "UIButton"; normalTitle = " 输入验证码"; ObjectID = "iaM-5A-elZ"; */
+"iaM-5A-elZ.normalTitle" = " 输入验证码";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "rwH-CK-djb"; */
+"rwH-CK-djb.normalTitle" = "登录";
